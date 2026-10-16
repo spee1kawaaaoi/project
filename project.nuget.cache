@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BCEvVPrjrug=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Академия ТОП\\source\\repos\\localhost\\localhost\\localhost\\localhost.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Академия ТОП\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.13\\microsoft.aspnetcore.openapi.10.0.13.nupkg.sha512",
+    "C:\\Users\\Академия ТОП\\.nuget\\packages\\microsoft.openapi\\2.12.2\\microsoft.openapi.2.12.2.nupkg.sha512"
+  ],
+  "logs": []
+}
